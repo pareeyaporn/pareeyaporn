@@ -15,6 +15,7 @@
 <td width="50%" valign="top">
 
 **[Energy Twin](https://github.com/pareeyaporn/energy-twin-dashboard)**
+
 An AI digital twin that lets hotel owners test energy upgrades before spending a dollar: a 3D simulation by season, hour and occupancy, plus an optimizer that ranks 512 upgrade plans. Built in 48 hours at Booth Hacks.
 
 <a href="https://github.com/pareeyaporn/energy-twin-dashboard"><img src="https://github.com/pareeyaporn/energy-twin-dashboard/raw/main/docs/images/energy-twin-demo.gif" alt="Energy Twin 3D demo" width="100%"></a>
@@ -25,6 +26,7 @@ An AI digital twin that lets hotel owners test energy upgrades before spending a
 <td width="50%" valign="top">
 
 **[Agentic Voice-to-Voice AI](https://github.com/pareeyaporn/Agentic-Voice-to-Voice-AI)**
+
 Talk to it, and it talks back: a voice shopping agent that understands your request, searches a catalog and the web, and answers with cited sources. I led the agent orchestration and the voice pipeline.
 
 <a href="https://github.com/pareeyaporn/Agentic-Voice-to-Voice-AI"><img src="https://github.com/pareeyaporn/Agentic-Voice-to-Voice-AI/raw/main/docs/images/voice-agent-demo.gif" alt="Voice agent demo" width="100%"></a>
@@ -36,13 +38,13 @@ Talk to it, and it talks back: a voice shopping agent that understands your requ
 </table>
 
 ### 🛠️ Tools I reach for
-**Languages:** Python · TypeScript · SQL · Java · Q/KDB+
-**AI/ML:** LLM agents · RAG · LangGraph · MCP · evals · computer vision · TensorFlow · LightGBM · time series
+**Languages:** Python · TypeScript · SQL · Java · Q/KDB+<br>
+**AI/ML:** LLM agents · RAG · LangGraph · MCP · evals · computer vision · TensorFlow · LightGBM · time series<br>
 **Cloud & dev:** AWS (Bedrock) · GCP · Docker · React · Express · Spring Boot · Claude Code
 
 ### ☕ Off the keyboard
 Originally from Thailand, I've spent the last decade between Hong Kong and the U.S., and I speak English, Thai and Mandarin. Outside work, I'm usually hunting for great matcha or planning my next trip (25+ countries so far).
 
 ### 🤝 Let's connect
-Building something in robotics, autonomy, or AI agents? I'd love to hear about it.
+Building something in robotics, autonomy, or AI agents? I'd love to hear about it.<br>
 [LinkedIn](https://www.linkedin.com/in/pareeyaporn/) · [Email](mailto:pprachas@chicagobooth.edu)
