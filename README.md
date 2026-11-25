@@ -43,7 +43,7 @@ Talk to it, and it talks back: a voice shopping agent that understands your requ
 ☁️ **Cloud & dev:** AWS (Bedrock) · GCP · Docker · React · Express · Spring Boot · Claude Code
 
 ### ☕ Off the keyboard
-🇹🇭 Originally from Thailand, I've spent the last decade between 🇭🇰 Hong Kong and 🇺🇸 the U.S., and I speak English, Thai and Mandarin. Outside work, I'm usually hunting for great matcha 🍵 or planning my next trip ✈️ (25+ countries so far).
+🇹🇭 Originally from Thailand, I've spent the last decade between 🇭🇰 Hong Kong and 🇺🇸 the U.S., and I speak English, Thai and Mandarin. Outside work, I'm usually hunting for great matcha 🍵 and coffee ☕, or planning my next trip ✈️ (25+ countries so far).
 
 ### 🤝 Let's connect
 Building something in robotics, autonomy, or AI agents? I'd love to hear about it! 😊<br>
