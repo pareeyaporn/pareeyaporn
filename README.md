@@ -5,7 +5,7 @@
 ### 🌱 A bit about my journey
 - 💻 Built real-time trading technology for 200+ traders at **JPMorgan** in Hong Kong, promoted twice in 4 years
 - 🍷 Built an **agentic AI intake platform** (RAG + AWS Bedrock) from scratch during my internship at E. & J. Gallo
-- 🚗 Now shipping production code with **Claude Code** at Fifth Star
+- 🚗 Now a Tech & Value Creation intern at **Fifth Star** (private equity), rebuilding a portfolio company's e-commerce platform with **Claude Code**
 - 🎓 Mentored 11 interns and co-led a program that brought tech education to 1,000+ students
 
 ### 🔨 Things I've built
