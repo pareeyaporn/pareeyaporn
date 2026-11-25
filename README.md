@@ -37,6 +37,8 @@ Talk to it, and it talks back: a voice shopping agent that understands your requ
 </tr>
 </table>
 
+📊 **More:** [NYC congestion pricing: demand & price elasticity](https://github.com/kwang101-cb/ML1-FinalProject) (team project; I built the LightGBM and causal-inference model, R² 0.87)
+
 ### 🛠️ Tools I reach for
 💬 **Languages:** Python · TypeScript · SQL · Java · Q/KDB+<br>
 🧠 **AI/ML:** LLM agents · RAG · LangGraph · MCP · evals · computer vision · TensorFlow · LightGBM · time series<br>
